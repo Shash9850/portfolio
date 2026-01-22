@@ -383,3 +383,34 @@ html {
     gap: 12px;
     flex-wrap: wrap;
 }
+
+
+
+/* EDUCATION SECTION */
+.education {
+    padding: 100px 8%;
+}
+
+.education-card {
+    background-color: #161616;
+    padding: 25px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+
+.education-card h3 {
+    color: #64ffda;
+    font-size: 18px;
+    margin-bottom: 6px;
+}
+
+.education-org {
+    font-size: 14px;
+    color: #ffffff;
+    margin-bottom: 4px;
+}
+
+.education-details {
+    font-size: 14px;
+    color: #a8b2d1;
+}
